@@ -8,9 +8,6 @@
 ║  VECTOR    : Embedded Systems → Defense Tech                     ║
 ║  STATUS    : SEEKING CONTACT · IT & Embedded roles               ║
 ╚══════════════════════════════════════════════════════════════════╝
-```
-
----
 
 ## Systems Online
 
@@ -22,18 +19,13 @@ FLASK / REST    ██████████░░░░░░  NOMINAL
 AZURE AD        ██████████░░░░░░  NOMINAL
 NETWORKING      ████████░░░░░░░░  NOMINAL
 EMBEDDED SYS    ████████░░░░░░░░  NOMINAL
-```
 
----
 
 ## Cert Acquisition
 
 ```
 COMPTIA SECURITY+  [▓▓▓▓▓▓░░░░░░░░░░]  IN PROGRESS  (DoD 8570)
 CISCO CCNA         [▓▓▓▓░░░░░░░░░░░░]  IN PROGRESS
-```
-
----
 
 ## Mission Log
 
@@ -46,16 +38,12 @@ P-03  FLIGHT-TRACKER                     ✓ LIVE          Flask · AviationStac
 P-04  NETWORK-PRACTICE.MC               ✓ COMPLETE      Python · Sockets · REST
 P-05  HEALTH-TRACKER                     ✓ COMPLETE      Python · CSV · Matplotlib
 P-06  FLIGHT-DELAY-ANALYZER             ✓ COMPLETE      Python · BTS Data · Charts
-```
-
----
 
 ## GitHub Readout
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxsCaretaker&show_icons=true&theme=terminal&hide_border=true&count_private=true&title_color=00ff99&text_color=00cc77&icon_color=00ff99&bg_color=060c0a)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsCaretaker&layout=compact&theme=terminal&hide_border=true&title_color=00ff99&text_color=00cc77&bg_color=060c0a)
 
----
 
 ## Uplink
 
