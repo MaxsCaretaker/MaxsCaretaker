@@ -59,5 +59,5 @@ Raspberry Pi 4 · PIR & ultrasonic sensor fusion · Pi Camera Module 3 · OLED d
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sergio--nunez-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sergio-nunez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sergio--nunez-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sergio-nunez-72517a2a6/)
 [![Email](https://img.shields.io/badge/Email-sergiowork714%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sergiowork714@gmail.com)
