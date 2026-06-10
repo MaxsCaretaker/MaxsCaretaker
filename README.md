@@ -12,7 +12,7 @@
 
 ---
 
-## `[SYS]` Systems Online
+## Systems Online
 
 ```
 PYTHON          ████████████████  NOMINAL
@@ -26,7 +26,7 @@ EMBEDDED SYS    ████████░░░░░░░░  NOMINAL
 
 ---
 
-## `[CERT]` Cert Acquisition
+## Cert Acquisition
 
 ```
 COMPTIA SECURITY+  [▓▓▓▓▓▓░░░░░░░░░░]  IN PROGRESS  (DoD 8570)
@@ -35,7 +35,7 @@ CISCO CCNA         [▓▓▓▓░░░░░░░░░░░░]  IN PROGRE
 
 ---
 
-## `[MISS]` Mission Log
+## Mission Log
 
 ```
 ID    DESIGNATION                         STATUS          STACK
@@ -50,18 +50,17 @@ P-06  FLIGHT-DELAY-ANALYZER             ✓ COMPLETE      Python · BTS Data · 
 
 ---
 
-## `[STAT]` GitHub Readout
+## GitHub Readout
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxsCaretaker&show_icons=true&theme=terminal&hide_border=true&count_private=true&title_color=00ff99&text_color=00cc77&icon_color=00ff99&bg_color=060c0a)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsCaretaker&layout=compact&theme=terminal&hide_border=true&title_color=00ff99&text_color=00cc77&bg_color=060c0a)
 
 ---
 
-## `[COM]` Uplink
+## Uplink
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-sergio--nunez-00ff99?style=flat-square&labelColor=060c0a&color=003322)](https://linkedin.com/in/sergio-nunez)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-sergio--nunez-00ff99?style=flat-square&labelColor=060c0a&color=003322)](https://www.linkedin.com/in/sergio-nunez-72517a2a6/)
 [![Email](https://img.shields.io/badge/EMAIL-sergiowork714-00ff99?style=flat-square&labelColor=060c0a&color=003322)](mailto:sergiowork714@gmail.com)
-[![Live App](https://img.shields.io/badge/FLIGHT--TRACKER-LIVE-00ff99?style=flat-square&labelColor=060c0a&color=003322)](https://flight-tracker-nsh6.onrender.com)
 
 ```
 /// END TRANSMISSION · github.com/MaxsCaretaker ///
