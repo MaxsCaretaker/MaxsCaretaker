@@ -1,6 +1,6 @@
-# Hi, I'm Sergio Nunez
+# Hi
 
-Computer Engineering grad building at the intersection of embedded systems, defense tech, and IT infrastructure.
+I'm a Computer Engineering grad building at the intersection of embedded systems, defense tech, and IT infrastructure.
 
 ![Location](https://img.shields.io/badge/Riverside%2C%20CA-%F0%9F%93%8D-blue?style=flat-square)
 ![Degree](https://img.shields.io/badge/Cal%20State%20San%20Bernardino-CE%20'24-4e9af1?style=flat-square)
